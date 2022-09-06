@@ -1,7 +1,7 @@
 */**/.exercism/**/*
 
 # Rust
-*/target/
-*/**/*.rs.bk
-*/Cargo.lock
-*/.gitignore
+rust/*/target/
+rust/*/**/*.rs.bk
+rust/*/Cargo.lock
+rust/*/.gitignore
